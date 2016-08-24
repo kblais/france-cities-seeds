@@ -2,7 +2,7 @@
     "name": "kblais/france-cities-seeds",
     "description": "Extract the tree structure of French metropolitan regions, departments and cities from www.data.gouv.fr CSV",
     "version": "1.0.0",
-    "licence": "MIT",
+    "license": "MIT",
     "homepage": "https://github.com/kblais/france-cities-seeds",
     "authors": [
         {
