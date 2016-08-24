@@ -7,7 +7,7 @@ This package extracts the tree structure of French metropolitan regions, departm
 Place the extracted CSV file (available at this address : [www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/](http://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/)) in the folder you need, and use the `extractFromFile($filepath)` function to extract data :
 
 ```php
-$regions = Kblais\Francecitieseeds\extractFromFile('/path/to/csv/file.csv');
+$regions = Kblais\FranceCitiesSeeds\extractFromFile('/path/to/csv/file.csv');
 ```
 
 ## Output extract
